@@ -1,0 +1,206 @@
+{
+  "appInfo" : {
+    "build" : "202.7660.26.42.7486908",
+    "buildDate" : "Thu, 24 Jun 2021 06:31:15 +0700",
+    "productCode" : "AI",
+    "generated" : "Wed, 22 Sep 2021 13:37:34 +0700",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o 11.0.8 11.0.8+10-b944.6842174"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1342177280,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "welcome",
+    "numberOfFileProviders" : 2,
+    "totalNumberOfFiles" : 4269,
+    "times" : {
+      "indexingTime" : "10 s 940 ms",
+      "scanFilesTime" : "4 s 609 ms",
+      "pushPropertiesTime" : "3 s 784 ms",
+      "indexExtensionsTime" : "< 1 ms",
+      "pushPropertiesStart" : "Wed, 22 Sep 2021 13:37:23 +0700",
+      "pushPropertiesEnd" : "Wed, 22 Sep 2021 13:37:26 +0700",
+      "scanFilesStart" : "Wed, 22 Sep 2021 13:37:26 +0700",
+      "scanFilesEnd" : "Wed, 22 Sep 2021 13:37:31 +0700",
+      "indexExtensionsStart" : "Wed, 22 Sep 2021 13:37:26 +0700",
+      "indexExtensionsEnd" : "Wed, 22 Sep 2021 13:37:26 +0700",
+      "indexingStart" : "Wed, 22 Sep 2021 13:37:23 +0700",
+      "indexingEnd" : "Wed, 22 Sep 2021 13:37:34 +0700"
+    },
+    "numberOfIndexingThreads" : 3,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "100.0%",
+      "partOfTotalContentLoadingTime" : "97.9%",
+      "totalNumberOfFiles" : 4220,
+      "totalFilesSize" : "36.86 MB",
+      "indexingSpeed" : "54.15 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'welcome.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.95 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      }, {
+        "providerName" : "Android SDK Android API 31 Platform",
+        "numberOfFiles" : 4219,
+        "totalFilesSize" : "36.86 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "824 B",
+      "indexingSpeed" : "0 B/s",
+      "biggestContributors" : [ {
+        "providerName" : "Android SDK Android API 31 Platform",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "824 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "HTML",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "1.5%",
+      "totalNumberOfFiles" : 46,
+      "totalFilesSize" : "41.69 kB",
+      "indexingSpeed" : "0 B/s",
+      "biggestContributors" : [ {
+        "providerName" : "Android SDK Android API 31 Platform",
+        "numberOfFiles" : 46,
+        "totalFilesSize" : "41.69 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "45.4%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "1.95 kB",
+      "indexingSpeed" : "6.31 kB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "15.3%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "1.95 kB",
+      "indexingSpeed" : "18.69 kB/s"
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : "12.3%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "1.95 kB",
+      "indexingSpeed" : "23.23 kB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "11.4%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "1.95 kB",
+      "indexingSpeed" : "25.05 kB/s"
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : "5.0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "1.95 kB",
+      "indexingSpeed" : "57.22 kB/s"
+    }, {
+      "indexId" : "BindingXmlIndex",
+      "partOfTotalIndexingTime" : "4.3%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "1.95 kB",
+      "indexingSpeed" : "66.16 kB/s"
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : "4.2%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "1.95 kB",
+      "indexingSpeed" : "68.13 kB/s"
+    }, {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "1.8%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "1.95 kB",
+      "indexingSpeed" : "155.67 kB/s"
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "1.95 kB",
+      "indexingSpeed" : "8.67 MB/s"
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "1.95 kB",
+      "indexingSpeed" : "9.65 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Android SDK Android API 31 Platform",
+      "totalNumberOfFiles" : 4268,
+      "totalIndexingTime" : "1 s 353 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "824 B",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 4219,
+        "totalFilesSize" : "36.86 MB",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "97.9%"
+      }, {
+        "fileType" : "HTML",
+        "numberOfFiles" : 46,
+        "totalFilesSize" : "41.69 kB",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "1.5%"
+      } ],
+      "statsPerIndexer" : [ ],
+      "fastIndexers" : [ ]
+    }, {
+      "providerName" : "Module 'welcome.app'",
+      "totalNumberOfFiles" : 1,
+      "totalIndexingTime" : "1 s 51 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.95 kB",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "45.4%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "15.3%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "partOfTotalIndexingTime" : "12.3%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "11.4%"
+      }, {
+        "indexId" : "fileIncludes",
+        "partOfTotalIndexingTime" : "5.0%"
+      }, {
+        "indexId" : "BindingXmlIndex",
+        "partOfTotalIndexingTime" : "4.3%"
+      }, {
+        "indexId" : "FrameworkDetectionIndex",
+        "partOfTotalIndexingTime" : "4.2%"
+      }, {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "1.8%"
+      } ],
+      "fastIndexers" : [ "RelaxSymbolIndex", "xmlProperties" ]
+    } ]
+  }
+}
